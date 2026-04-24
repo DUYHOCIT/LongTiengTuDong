@@ -1,0 +1,52 @@
+INFO:__main__:\u0110ã phân tích 10 \u0111o\u1ea1n ph\u1ee5 \u0111\u1ec1 t\u1eeb D:\Scripts\Ban\NoiTV\temp\subtitles\session-5c814944-9828-4efe-bd15-962848d7f750\1744510155381-youtube_translated.srt
+ERROR:__main__:L\u1ed7i khi x\u1eed lý \u0111o\u1ea1n 00:00:24,920 --> 00:00:34,470: [WinError 2] The system cannot find the file specified
+ERROR:__main__:L\u1ed7i khi x\u1eed lý \u0111o\u1ea1n 00:00:00,280 --> 00:00:19,580: [WinError 2] The system cannot find the file specified
+ERROR:__main__:L\u1ed7i khi x\u1eed lý \u0111o\u1ea1n 00:01:19,200 --> 00:01:30,900: [WinError 2] The system cannot find the file specified
+ERROR:__main__:L\u1ed7i khi x\u1eed lý \u0111o\u1ea1n 00:00:36,559 --> 00:00:50,320: [WinError 2] The system cannot find the file specified
+ERROR:__main__:L\u1ed7i khi x\u1eed lý \u0111o\u1ea1n 00:01:33,119 --> 00:01:41,640: [WinError 2] The system cannot find the file specified
+ERROR:__main__:L\u1ed7i khi x\u1eed lý \u0111o\u1ea1n 00:01:45,479 --> 00:01:55,100: [WinError 2] The system cannot find the file specified
+ERROR:__main__:L\u1ed7i khi x\u1eed lý \u0111o\u1ea1n 00:00:50,800 --> 00:01:15,400: [WinError 2] The system cannot find the file specified
+ERROR:__main__:L\u1ed7i khi x\u1eed lý \u0111o\u1ea1n 00:02:35,840 --> 00:02:46,000: [WinError 2] The system cannot find the file specified
+ERROR:__main__:L\u1ed7i khi x\u1eed lý \u0111o\u1ea1n 00:01:56,799 --> 00:02:23,120: [WinError 2] The system cannot find the file specified
+ERROR:__main__:L\u1ed7i khi x\u1eed lý \u0111o\u1ea1n 00:02:23,120 --> 00:02:33,920: [WinError 2] The system cannot find the file specified
+INFO:__main__:\u0110ã x\u1eed lý l\u1ea7n \u0111\u1ea7u xong 0 file âm thanh
+WARNING:__main__:Thi\u1ebfu 10 file âm thanh: {'00.01.56.799.mp3', '00.00.00.280.mp3', '00.01.33.119.mp3', '00.00.36.559.mp3', '00.01.45.479.mp3', '00.00.24.920.mp3', '00.02.35.840.mp3', '00.02.23.120.mp3', '00.00.50.800.mp3', '00.01.19.200.mp3'}
+INFO:__main__:Th\u1eed l\u1ea1i l\u1ea7n 1/3 cho 10 \u0111o\u1ea1n b\u1ecb thi\u1ebfu
+ERROR:__main__:L\u1ed7i khi x\u1eed lý \u0111o\u1ea1n 00:00:24,920 --> 00:00:34,470: [WinError 2] The system cannot find the file specified
+ERROR:__main__:L\u1ed7i khi x\u1eed lý \u0111o\u1ea1n 00:00:36,559 --> 00:00:50,320: [WinError 2] The system cannot find the file specified
+ERROR:__main__:L\u1ed7i khi x\u1eed lý \u0111o\u1ea1n 00:00:00,280 --> 00:00:19,580: [WinError 2] The system cannot find the file specified
+ERROR:__main__:L\u1ed7i khi x\u1eed lý \u0111o\u1ea1n 00:00:50,800 --> 00:01:15,400: [WinError 2] The system cannot find the file specified
+ERROR:__main__:L\u1ed7i khi x\u1eed lý \u0111o\u1ea1n 00:01:33,119 --> 00:01:41,640: [WinError 2] The system cannot find the file specified
+ERROR:__main__:L\u1ed7i khi x\u1eed lý \u0111o\u1ea1n 00:01:19,200 --> 00:01:30,900: [WinError 2] The system cannot find the file specified
+ERROR:__main__:L\u1ed7i khi x\u1eed lý \u0111o\u1ea1n 00:01:45,479 --> 00:01:55,100: [WinError 2] The system cannot find the file specified
+ERROR:__main__:L\u1ed7i khi x\u1eed lý \u0111o\u1ea1n 00:01:56,799 --> 00:02:23,120: [WinError 2] The system cannot find the file specified
+ERROR:__main__:L\u1ed7i khi x\u1eed lý \u0111o\u1ea1n 00:02:23,120 --> 00:02:33,920: [WinError 2] The system cannot find the file specified
+ERROR:__main__:L\u1ed7i khi x\u1eed lý \u0111o\u1ea1n 00:02:35,840 --> 00:02:46,000: [WinError 2] The system cannot find the file specified
+WARNING:__main__:Còn thi\u1ebfu 10 file sau l\u1ea7n th\u1eed 1: {'00.01.56.799.mp3', '00.00.00.280.mp3', '00.01.33.119.mp3', '00.00.36.559.mp3', '00.01.45.479.mp3', '00.00.24.920.mp3', '00.02.35.840.mp3', '00.02.23.120.mp3', '00.00.50.800.mp3', '00.01.19.200.mp3'}
+INFO:__main__:Th\u1eed l\u1ea1i l\u1ea7n 2/3 cho 10 \u0111o\u1ea1n b\u1ecb thi\u1ebfu
+ERROR:__main__:L\u1ed7i khi x\u1eed lý \u0111o\u1ea1n 00:00:24,920 --> 00:00:34,470: [WinError 2] The system cannot find the file specified
+ERROR:__main__:L\u1ed7i khi x\u1eed lý \u0111o\u1ea1n 00:00:36,559 --> 00:00:50,320: [WinError 2] The system cannot find the file specified
+ERROR:__main__:L\u1ed7i khi x\u1eed lý \u0111o\u1ea1n 00:00:00,280 --> 00:00:19,580: [WinError 2] The system cannot find the file specified
+ERROR:__main__:L\u1ed7i khi x\u1eed lý \u0111o\u1ea1n 00:00:50,800 --> 00:01:15,400: [WinError 2] The system cannot find the file specified
+ERROR:__main__:L\u1ed7i khi x\u1eed lý \u0111o\u1ea1n 00:01:19,200 --> 00:01:30,900: [WinError 2] The system cannot find the file specified
+ERROR:__main__:L\u1ed7i khi x\u1eed lý \u0111o\u1ea1n 00:01:45,479 --> 00:01:55,100: [WinError 2] The system cannot find the file specified
+ERROR:__main__:L\u1ed7i khi x\u1eed lý \u0111o\u1ea1n 00:01:33,119 --> 00:01:41,640: [WinError 2] The system cannot find the file specified
+ERROR:__main__:L\u1ed7i khi x\u1eed lý \u0111o\u1ea1n 00:01:56,799 --> 00:02:23,120: [WinError 2] The system cannot find the file specified
+ERROR:__main__:L\u1ed7i khi x\u1eed lý \u0111o\u1ea1n 00:02:23,120 --> 00:02:33,920: [WinError 2] The system cannot find the file specified
+ERROR:__main__:L\u1ed7i khi x\u1eed lý \u0111o\u1ea1n 00:02:35,840 --> 00:02:46,000: [WinError 2] The system cannot find the file specified
+WARNING:__main__:Còn thi\u1ebfu 10 file sau l\u1ea7n th\u1eed 2: {'00.01.56.799.mp3', '00.00.00.280.mp3', '00.01.33.119.mp3', '00.00.36.559.mp3', '00.01.45.479.mp3', '00.00.24.920.mp3', '00.02.35.840.mp3', '00.02.23.120.mp3', '00.00.50.800.mp3', '00.01.19.200.mp3'}
+INFO:__main__:Th\u1eed l\u1ea1i l\u1ea7n 3/3 cho 10 \u0111o\u1ea1n b\u1ecb thi\u1ebfu
+ERROR:__main__:L\u1ed7i khi x\u1eed lý \u0111o\u1ea1n 00:00:24,920 --> 00:00:34,470: [WinError 2] The system cannot find the file specified
+ERROR:__main__:L\u1ed7i khi x\u1eed lý \u0111o\u1ea1n 00:00:00,280 --> 00:00:19,580: [WinError 2] The system cannot find the file specified
+ERROR:__main__:L\u1ed7i khi x\u1eed lý \u0111o\u1ea1n 00:00:36,559 --> 00:00:50,320: [WinError 2] The system cannot find the file specified
+ERROR:__main__:L\u1ed7i khi x\u1eed lý \u0111o\u1ea1n 00:00:50,800 --> 00:01:15,400: [WinError 2] The system cannot find the file specified
+ERROR:__main__:L\u1ed7i khi x\u1eed lý \u0111o\u1ea1n 00:01:19,200 --> 00:01:30,900: [WinError 2] The system cannot find the file specified
+ERROR:__main__:L\u1ed7i khi x\u1eed lý \u0111o\u1ea1n 00:01:33,119 --> 00:01:41,640: [WinError 2] The system cannot find the file specified
+ERROR:__main__:L\u1ed7i khi x\u1eed lý \u0111o\u1ea1n 00:01:45,479 --> 00:01:55,100: [WinError 2] The system cannot find the file specified
+ERROR:__main__:L\u1ed7i khi x\u1eed lý \u0111o\u1ea1n 00:01:56,799 --> 00:02:23,120: [WinError 2] The system cannot find the file specified
+ERROR:__main__:L\u1ed7i khi x\u1eed lý \u0111o\u1ea1n 00:02:23,120 --> 00:02:33,920: [WinError 2] The system cannot find the file specified
+ERROR:__main__:L\u1ed7i khi x\u1eed lý \u0111o\u1ea1n 00:02:35,840 --> 00:02:46,000: [WinError 2] The system cannot find the file specified
+WARNING:__main__:Còn thi\u1ebfu 10 file sau l\u1ea7n th\u1eed 3: {'00.01.56.799.mp3', '00.00.00.280.mp3', '00.01.33.119.mp3', '00.00.36.559.mp3', '00.01.45.479.mp3', '00.00.24.920.mp3', '00.02.35.840.mp3', '00.02.23.120.mp3', '00.00.50.800.mp3', '00.01.19.200.mp3'}
+ERROR:__main__:V\u1eabn còn thi\u1ebfu 10 file sau 3 l\u1ea7n th\u1eed: {'00.01.56.799.mp3', '00.00.00.280.mp3', '00.01.33.119.mp3', '00.00.36.559.mp3', '00.01.45.479.mp3', '00.00.24.920.mp3', '00.02.35.840.mp3', '00.02.23.120.mp3', '00.00.50.800.mp3', '00.01.19.200.mp3'}
+INFO:__main__:\u0110ã x\u1eed lý xong 0 file âm thanh sau khi ki\u1ec3m tra
+INFO:__main__:Hoàn thành x\u1eed lý TTS trong 31.12 giây, t\u1ea1o \u0111\u01b0\u1ee3c 0 file

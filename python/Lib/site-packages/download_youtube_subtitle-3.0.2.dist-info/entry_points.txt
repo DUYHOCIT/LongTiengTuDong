@@ -1,0 +1,3 @@
+[console_scripts]
+dl-youtube-cc = download_youtube_subtitle.__main__:fire_main
+dl-youtube-cc-playlist = download_youtube_subtitle.__main__:fire_main_playlist
