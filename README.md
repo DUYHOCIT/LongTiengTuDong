@@ -1,4 +1,2 @@
-<video width="700" controls>
-  <source src="https://raw.githubusercontent.com/DUYHOCIT/LongTiengTuDong/main/demo/demo.mp4" type="video/mp4">
-</video>
+[![Demo](https://img.youtube.com/vi/CophIPhTAMs/0.jpg)](https://youtu.be/CophIPhTAMs)
 <img src="./demo/demo.png" width="600"/>
