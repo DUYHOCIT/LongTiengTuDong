@@ -1,5 +1,2 @@
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/CophIPhTAMs"
-allowfullscreen>
-</iframe>
+[!XemVideo](https://img.youtube.com/vi/CophIPhTAMs/0.jpg)](https://youtu.be/CophIPhTAMs)
 <img src="./demo/demo.png" width="600"/>
