@@ -1,3 +1,3 @@
-[VIDEO DEMO](https://docs.github.com/github/administering-a-repository/keeping-your-dependencies-updated-automatically)
+[VIDEO DEMO](https://youtu.be/CophIPhTAMs)
 
 <img src="./demo/demo.png" width="600"/>
